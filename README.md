@@ -36,7 +36,7 @@ const aboutMe = {
                  "IBM DB2", "MongoDB", "Cloud Firestore", "Cassandra",
                  "Memcached", "ElasticSearch", "Redis", "SQLite" ]
   },
-  architecture: ["Microservices", "Serverless", "event-driven", "design system pattern"],
+  architecture: ["Microservices", "Serverless", "event-driven"],
   currentOccupation: ["last year student, open for job opportunities"],
   challenge: "I'm working towards being able to run a marathon.",
 };
